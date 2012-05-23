@@ -1,1 +1,2 @@
-The second version of my document
+The third version of my document
+Adding some content here
